@@ -1,0 +1,16 @@
+{
+  "name": "Water Tracker",
+  "short_name": "Water",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1e33",
+  "theme_color": "#0b1e33",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%230b1e33'/%3E%3Cpath d='M256 90C200 170 150 230 150 300a106 106 0 0 0 212 0c0-70-50-130-106-210z' fill='%2338bdf8'/%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
